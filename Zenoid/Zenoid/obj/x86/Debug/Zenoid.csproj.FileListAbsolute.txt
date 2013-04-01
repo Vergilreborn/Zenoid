@@ -1,0 +1,13 @@
+c:\users\alexander\documents\visual studio 2010\Projects\Zenoid\Zenoid\Zenoid\bin\x86\Debug\Content\Ships.xnb
+c:\users\alexander\documents\visual studio 2010\Projects\Zenoid\Zenoid\Zenoid\bin\x86\Debug\Zenoid.exe
+c:\users\alexander\documents\visual studio 2010\Projects\Zenoid\Zenoid\Zenoid\bin\x86\Debug\Zenoid.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\Zenoid\Zenoid\Zenoid\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2010\Projects\Zenoid\Zenoid\Zenoid\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\alexander\documents\visual studio 2010\Projects\Zenoid\Zenoid\Zenoid\obj\x86\Debug\Zenoid.exe
+c:\users\alexander\documents\visual studio 2010\Projects\Zenoid\Zenoid\Zenoid\obj\x86\Debug\Zenoid.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\Zenoid\Zenoid\Zenoid\bin\x86\Debug\Content\weapons.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\Zenoid\Zenoid\Zenoid\bin\x86\Debug\Content\thrust.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\Zenoid\Zenoid\Zenoid\bin\x86\Debug\Content\DebugFont.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\Zenoid\Zenoid\Zenoid\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\Zenoid\Zenoid\Zenoid\bin\x86\Debug\Content\hudBars.xnb
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\Zenoid\Zenoid\Zenoid\bin\x86\Debug\Content\PlainFont.xnb

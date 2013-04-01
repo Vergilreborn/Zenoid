@@ -1,0 +1,25 @@
+﻿
+Checkup
+  check why they isCollision with the rectangle and the vector correct with a plus sign. 
+  is the offset of the bullet not being drawn correct and collision being faulty???
+
+Steps needed
+ 
+  Enemy class built
+  Player user interface
+  Enemy bullets trajectory
+  Bosses
+  Ally for players
+  Collision Detection for player AND Enemies
+  Animating background
+  Design menus
+  Linear story at the moment
+
+
+Things need to add at end
+  More weapon types
+  Weapon level up system possible
+  Player level up system
+  Beat boss recieve item (maybe skill point to unlock weapons)
+  split story off, maybe fight the good guys and be able to use bad guy ships
+

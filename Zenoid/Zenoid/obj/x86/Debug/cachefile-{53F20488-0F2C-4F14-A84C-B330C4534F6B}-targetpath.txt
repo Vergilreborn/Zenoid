@@ -1,0 +1,7 @@
+Content\Ships.xnb
+Content\weapons.xnb
+Content\thrust.xnb
+Content\DebugFont.xnb
+Content\Enemy.xnb
+Content\hudBars.xnb
+Content\PlainFont.xnb
